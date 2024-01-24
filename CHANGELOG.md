@@ -1,3 +1,9 @@
+#### 1.9.7 (2024-01-24)
+
+##### New Features
+
+* add flagIfBreaking property to commit object ([a6a23539](https://github.com/SamuelCottarel/generate-changelog/commit/a6a23539ad39e3c7cc4efd4eb94188c223fe2afc))
+
 #### 1.9.6 (2024-01-24)
 
 ##### Bug Fixes
