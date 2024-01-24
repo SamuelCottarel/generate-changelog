@@ -1,3 +1,13 @@
+#### 1.9.5 (2024-01-24)
+
+##### Chores
+
+* Update NPM Version link in README.md ([49b10952](https://github.com/SamuelCottarel/generate-changelog/commit/49b1095221479a6efaab31349147926e7178c2a5))
+
+##### Bug Fixes
+
+* package name convention in package-lock.json and package.json ([aab98a78](https://github.com/SamuelCottarel/generate-changelog/commit/aab98a78f1a200b0548a9a31619c9f5bea29f79e))
+
 #### 1.9.4 (2024-01-24)
 
 ##### Chores
