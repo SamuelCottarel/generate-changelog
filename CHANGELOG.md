@@ -1,3 +1,9 @@
+#### 1.9.1 (2024-01-24)
+
+##### Bug Fixes
+
+* add conventional commits for breaking change ([75f4885e](https://github.com/SamuelCottarel/generate-changelog/commit/75f4885e2904f610eab21b4b0e05deb22fa544f5))
+
 ### 1.9.0 (2024-01-24)
 
 ##### Chores
