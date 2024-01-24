@@ -1,3 +1,9 @@
+#### 1.9.4 (2024-01-24)
+
+##### Chores
+
+* Update package.json with correct author name ([91c1e4fb](https://github.com/SamuelCottarel/generate-changelog/commit/91c1e4fb7b7e0053bc85f7e0e27d2dbe8318246c))
+
 #### 1.9.3 (2024-01-24)
 
 ##### Chores
