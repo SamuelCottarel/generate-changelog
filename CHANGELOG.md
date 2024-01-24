@@ -1,3 +1,9 @@
+#### 1.9.6 (2024-01-24)
+
+##### Bug Fixes
+
+* Update package.json bin paths ([4a3c71e5](https://github.com/SamuelCottarel/generate-changelog/commit/4a3c71e5a345892da3216dcbdafa7c9a5ea6f2be))
+
 #### 1.9.5 (2024-01-24)
 
 ##### Chores
