@@ -1,3 +1,9 @@
+#### 1.9.11 (2024-01-24)
+
+##### Bug Fixes :bug:
+
+* formatting issue in writer.js ([529c74f9](https://github.com/SamuelCottarel/generate-changelog/commit/529c74f982d89fb8f2ccd0bd557e1c56f94566d1))
+
 #### 1.9.10 (2024-01-24)
 
 ##### Breaking Changes :boom: :warning:
