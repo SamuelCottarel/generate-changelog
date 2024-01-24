@@ -1,6 +1,6 @@
 {
   "name": "conventional-generate-changelog",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "description": "Generate a changelog from git commits.",
   "bin": {
     "generate-changelog": "node ./bin/generate",
