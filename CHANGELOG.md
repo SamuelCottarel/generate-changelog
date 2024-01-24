@@ -1,3 +1,9 @@
+#### 1.9.9 (2024-01-24)
+
+##### Refactors
+
+* remove unnecessary line in body ([2a838b10](https://github.com/SamuelCottarel/generate-changelog/commit/2a838b10d78134e946d7455dad31e2a1eac0bc77))
+
 #### 1.9.8 (2024-01-24)
 
 ##### Bug Fixes
