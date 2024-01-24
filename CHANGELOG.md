@@ -1,3 +1,9 @@
+#### 1.9.10 (2024-01-24)
+
+##### Breaking Changes :boom: :warning:
+
+*(refactor): code to handle breaking changes ([022e4f70](https://github.com/SamuelCottarel/generate-changelog/commit/022e4f70f841dcade7647c3ab5f4849d4bb3c5b7))
+
 #### 1.9.9 (2024-01-24)
 
 ##### Refactors
