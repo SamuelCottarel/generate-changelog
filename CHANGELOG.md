@@ -1,3 +1,9 @@
+#### 1.9.3 (2024-01-24)
+
+##### Chores
+
+* Update package name to conventionnal-generate-changelog ([ee5162ef](https://github.com/SamuelCottarel/generate-changelog/commit/ee5162ef30ce096ddfcaff634f3ed9e5afdc9271))
+
 #### 1.9.2 (2024-01-24)
 
 ##### New Features
