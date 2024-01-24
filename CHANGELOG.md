@@ -1,3 +1,9 @@
+#### 1.9.2 (2024-01-24)
+
+##### New Features
+
+* Add color to breaking change in markdown writer ([81ade64a](https://github.com/SamuelCottarel/generate-changelog/commit/81ade64aaa3a5e3e1962e5c7f73fbec237b5d8cf))
+
 #### 1.9.1 (2024-01-24)
 
 ##### Bug Fixes
