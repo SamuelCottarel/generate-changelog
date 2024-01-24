@@ -1,3 +1,9 @@
+#### 1.9.8 (2024-01-24)
+
+##### Bug Fixes
+
+* formatting issue in writer.js ([78195bb4](https://github.com/SamuelCottarel/generate-changelog/commit/78195bb470d2508f31a882169c84d240da51c740))
+
 #### 1.9.7 (2024-01-24)
 
 ##### New Features
