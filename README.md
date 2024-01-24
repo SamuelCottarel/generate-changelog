@@ -5,6 +5,10 @@
 [![Coverage Status](https://coveralls.io/repos/lob/generate-changelog/badge.svg?branch=master&service=github)](https://coveralls.io/github/lob/generate-changelog?branch=master)
 [![Dependency Status](https://david-dm.org/lob/generate-changelog.svg)](https://david-dm.org/lob/generate-changelog)
 
+This package is a fork of [generate-changelog](https://github.com/lob/generate-changelog) with the following changes at the moment:
+- More visibility on breaking changes -> breaking changes are now listed in the changelog with their body so you can precise what is breaking and possibly how to resolve it
+
+
 Generate a changelog from git commits. This is meant to be used so that for every patch, minor, or major version, you update the changelog _prior_ to running `npm version` so that the git tag contains the commit that updated both the changelog and version.
 
 ## Installation
