@@ -3,8 +3,8 @@
   "version": "1.9.5",
   "description": "Generate a changelog from git commits.",
   "bin": {
-    "generate-changelog": "node ./bin/generate",
-    "changelog": "node ./bin/generate"
+    "generate-changelog": "./bin/generate",
+    "changelog": "./bin/generate"
   },
   "main": "./lib/index.js",
   "directories": {
