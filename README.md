@@ -1,9 +1,6 @@
 # Generate Changelog
 
-[![NPM Version](https://badge.fury.io/js/generate-changelog.svg)](https://www.npmjs.com/package/generate-changelog)
-[![Build Status](https://travis-ci.org/lob/generate-changelog.svg)](https://travis-ci.org/lob/generate-changelog)
-[![Coverage Status](https://coveralls.io/repos/lob/generate-changelog/badge.svg?branch=master&service=github)](https://coveralls.io/github/lob/generate-changelog?branch=master)
-[![Dependency Status](https://david-dm.org/lob/generate-changelog.svg)](https://david-dm.org/lob/generate-changelog)
+[![NPM Version](https://badge.fury.io/js/generate-changelog.svg)](https://www.npmjs.com/package/conventional-generate-changelog)
 
 This package is a fork of [generate-changelog](https://github.com/lob/generate-changelog) with the following changes at the moment:
 - More visibility on breaking changes -> breaking changes are now listed in the changelog with their body so you can precise what is breaking and possibly how to resolve it
