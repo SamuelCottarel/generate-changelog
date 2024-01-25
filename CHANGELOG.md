@@ -1,3 +1,9 @@
+#### 1.9.13 (2024-01-25)
+
+##### Refactors :recycle:
+
+* writer.js to improve formatting and add details to commit messages ([f581c889](https://github.com/SamuelCottarel/generate-changelog/commit/f581c889a61894fee05aa7b398b2375519f23184))
+
 #### 1.9.12 (2024-01-24)
 
 #### 1.9.11 (2024-01-24)
