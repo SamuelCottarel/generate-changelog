@@ -1,3 +1,9 @@
+#### 1.9.15 (2024-01-25)
+
+##### Refactors :recycle:
+
+* markdown formatting in writer.js ([c2433b96](https://github.com/SamuelCottarel/generate-changelog/commit/c2433b967c36dee1f8a49586f4ddbc4ae55594b4))
+
 #### 1.9.14 (2024-01-25)
 
 ##### Breaking Changes :boom:
