@@ -1,3 +1,10 @@
+#### 1.9.14 (2024-01-25)
+
+##### Breaking Changes :boom:
+
+* (fix): commit flagIfBreaking logic ([52840595](https://github.com/SamuelCottarel/generate-changelog/commit/52840595d62afa6e13e50512bea7a98e730d0216))
+  * </details>
+
 #### 1.9.13 (2024-01-25)
 
 ##### Refactors :recycle:
