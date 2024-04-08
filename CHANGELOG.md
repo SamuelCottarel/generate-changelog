@@ -1,3 +1,12 @@
+### 1.14.0 (2024-04-08)
+
+##### Breaking Changes :boom:
+
+ * <details>
+      <summary>(fix): Refactor writer.js to handle breaking changes more efficiently (<a href="https://github.com/SamuelCottarel/generate-changelog/commit/64edd8b2faa1b1f4847af7d1e2f7aef173230fba">64edd8b2</a>)</summary>
+
+      </details>
+
 ### 1.13.0 (2024-04-05)
 
 ### 1.12.0 (2024-04-05)
